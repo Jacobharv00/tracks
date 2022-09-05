@@ -4,7 +4,7 @@ import { View, StyleSheet, Text, Button } from 'react-native'
 const SignupScreen = ( { navigation } ) => {
   return (
     <>
-      <Text style={{ fontSize: 48 }}>SignupScreen</Text>
+      <Text style={{ fontSize: 48 }}>Sign up Screen</Text>
       <Button title="Signin" onPress={() => navigation.navigate( 'Signin' )} />
     </>
   )
