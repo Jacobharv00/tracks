@@ -5,7 +5,7 @@ const SigninScreen = () => {
   return <Text style={{fontSize: 48}}>SigninScreen</Text>
 }
 
-const styles = StyleSheet.creat({
+const styles = StyleSheet.create({
 
 })
 
